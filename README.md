@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Gabriel Mendes
 ##
-- 🌱 I’m currently learning Python, Django and JavaScript
+- 🌱 I’m currently learning Node.js
 - 💬 Ask me about Web Development
 - 😄 Pronouns: he/him
 
