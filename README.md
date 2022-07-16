@@ -1,8 +1,12 @@
-### Hi there 👋 I'm Gabriel Mendes
+### Olá visitante 👋 Meu nome é Gabriel.
+- Eu sou um desenvolvedor web fullStack completamente apaixonado pelo back-end 💻. Estou há três anos me aperfeiçoando na área de desenolvimento de software e já passei por várias tecnologias. Atualmente estou cursando uma formação fullstack da [Tera](https://somostera.com/), aprofundando meus conhecimentos tanto em python como em javascript.
+- Possuo uma série de projetos pessoais aqui no github, e alguns com live preview disponível. 🌐
+- Vamos nos conectar? Abaixo encontrará as referências para o meu linkedin e email. Fique a vontade para me deixar uma mensagem ✉️
+- Você é dev? Bora codar juntos ⌨️. É recruiter? Vamos conversar 💬
 ##
-- 🌱 I’m currently learning Node.js and Express
-- 💬 Ask me about Web Development
-- 😄 Pronouns: he/him
+- 🌱 Estou no momento aprendendo Node.js, Express e Flask
+- 💬 Pergunte-me sobre desenvolvimento desenvolvimento web
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/gbr-mendes">
